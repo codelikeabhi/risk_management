@@ -73,7 +73,7 @@ MONGODB_URL=your_mongodb_connection_string
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/agentverse.git
+git clone https://github.com/codelikeabhi/agentverse.git
 cd agentverse
 ```
 
