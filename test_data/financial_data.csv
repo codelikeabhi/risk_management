@@ -1,0 +1,18 @@
+project_id,date,category,amount,description,approved_by,budget_category,budget
+PRJ001,20-01-2025,licensing,326845.75,Initial quantum computing infrastructure licensing fees for IBM Q-System access - annual contract with tiered usage pricing,FIN_HEAD_002,Capital Expenditure,8500000
+PRJ001,25-01-2025,hardware,478932.18,High-performance computing cluster procurement - 32 node configuration with 512TB storage capacity,FIN_HEAD_002,Capital Expenditure,8500000
+PRJ001,03-02-2025,recruitment,187650.44,Specialized talent acquisition costs for quantum algorithm developers - includes relocation packages for 3 senior specialists,FIN_HEAD_002,Operational,8500000
+PRJ001,10-02-2025,software,268475.33,Enterprise development toolkit licenses for distributed team - includes specialized financial modeling packages,FIN_HEAD_002,Capital Expenditure,8500000
+PRJ001,15-02-2025,consulting,354890.67,Goldman Sachs financial domain expert consultation - 8-week engagement for trading algorithm validation,FIN_HEAD_002,Operational,8500000
+PRJ001,22-02-2025,cloud,209756.89,Secure cloud infrastructure implementation - multi-region deployment with disaster recovery configuration,FIN_HEAD_002,Operational,8500000
+PRJ001,28-02-2025,security,187650.35,Independent security audit and penetration testing - regulatory compliance verification,FIN_HEAD_002,Operational,8500000
+PRJ001,05-03-2025,training,156780.22,Specialized team training program for quantum computing paradigms - includes certification program for 12 team members,FIN_HEAD_002,Operational,8500000
+PRJ001,12-03-2025,data,298450.76,Financial market historical data acquisition - 10-year historical dataset across 23 global markets,FIN_HEAD_002,Capital Expenditure,8500000
+PRJ001,18-03-2025,legal,175680.45,Legal review of algorithmic trading strategies to ensure regulatory compliance - focus on SEC requirements,FIN_HEAD_002,Operational,8500000
+PRJ001,24-03-2025,tools,246870.33,Specialized development and testing tools for high-frequency trading logic - includes simulation environment,FIN_HEAD_002,Capital Expenditure,8500000
+PRJ001,30-03-2025,integration,198540.25,API middleware development costs for connecting to multiple financial exchanges - includes certification fees,FIN_HEAD_002,Operational,8500000
+PRJ001,02-04-2025,testing,234780.19,Testing infrastructure for parallel transaction volume stress testing - requires specialized hardware configuration,FIN_HEAD_002,Operational,8500000
+PRJ001,05-04-2025,contingency,245000,Emergency allocation to address quantum algorithm optimization challenge delaying Alpha release,FIN_HEAD_003,Operational,8500000
+PRJ001,08-04-2025,security,367890.42,Critical vulnerability remediation in third-party API - unexpected emergency security consulting engagement,FIN_HEAD_003,Operational,8500000
+PRJ001,10-04-2025,staffing,198650.77,Additional development resources required to recover schedule delay - 3-month contractor engagement for 4 specialists,FIN_HEAD_002,Operational,8500000
+PRJ001,12-04-2025,marketing,145780.55,Pre-launch client engagement strategy implementation - includes exclusive preview event for institutional clients,FIN_HEAD_002,Operational,8500000

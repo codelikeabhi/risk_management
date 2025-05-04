@@ -1,0 +1,11 @@
+motor
+pymongo
+fastapi
+python-dotenv
+uvicorn
+pandas
+numpy
+google-generativeai
+newsapi-python
+yfinance
+python-multipart
