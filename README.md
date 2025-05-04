@@ -13,8 +13,8 @@ AgentVerse is a sophisticated multi-agent system designed to revolutionize proje
 
 ## Github Repositories
 
-- **Frontend**: [https://github.com/Kunj1/AgentVerse](https://github.com/codelikeabhi/AgentVerse)
-- **Backend**: [https://github.com/Kunj1/risk_management](https://github.com/codelikeabhi/risk_management)
+- **Frontend**: [https://github.com/codelikeabhi/AgentVerse](https://github.com/codelikeabhi/AgentVerse)
+- **Backend**: [https://github.com/codelikeabhi/risk_management](https://github.com/codelikeabhi/risk_management)
 
 ## Features
 
